@@ -6,24 +6,18 @@ This project uses LLMs to analyze and rewrite the chapters of uploaded PDF books
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧠 **LLM-powered Rewriting**: Converts complex or adult content into child-appropriate language and style.
-- ✍️ **Famous Author Styles**: Choose from popular children's authors for unique storytelling voices.
-- 📄 **PDF Chapter Extraction**: Upload any PDF book and select specific chapters to transform.
-- 💬 **Gradio Interface**: Easy-to-use web UI for interacting with the model.
-- 📚 **Vector Store Integration**: Enables semantic search and context-aware rewriting.
-- 🔍 **Chunked Processing**: Handles large chapters by breaking them into manageable parts.
-
----
-
-## 🚀 Demo
-
-> Coming soon via Hugging Face or Gradio Share URL.
+- **LLM-powered Rewriting**: Converts complex or adult content into child-appropriate language and style.
+- **Famous Author Styles**: Choose from popular children's authors for unique storytelling voices.
+- **PDF Chapter Extraction**: Upload any PDF book and select specific chapters to transform.
+- **Gradio Interface**: Easy-to-use web UI for interacting with the model.
+- **Vector Store Integration**: Enables semantic search and context-aware rewriting.
+- **Chunked Processing**: Handles large chapters by breaking them into manageable parts.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository:**
    ```bash
@@ -59,7 +53,7 @@ This project uses LLMs to analyze and rewrite the chapters of uploaded PDF books
 
 ---
 
-## 📦 Running the App
+## Running the App
 
 ```bash
 python app.py
@@ -69,7 +63,7 @@ This will launch the Gradio interface in your browser.
 
 ---
 
-## 🧙 Author Styles
+## Author Styles
 
 You can choose from the following author styles (customizable in `AUTHOR_STYLES` dictionary):
 
